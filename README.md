@@ -1,4 +1,4 @@
-# CSCE 892: Real-Time Systems - Spring 2024
+# Real-Time Systems 
 
 A collection of lab assignments exploring real-time embedded systems programming using the Ringo Robot platform and FreeRTOS.
 
