@@ -1,6 +1,4 @@
-# congenial-memory
-
-**CSCE 892: Real-Time Systems - Spring 2024**
+# CSCE 892: Real-Time Systems - Spring 2024
 
 A collection of lab assignments exploring real-time embedded systems programming using the Ringo Robot platform and FreeRTOS.
 
